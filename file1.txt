@@ -1,2 +1,2 @@
-#!/bin/bash
-"hello world 6"
+
+"hello world"
