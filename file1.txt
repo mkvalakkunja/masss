@@ -1,6 +1,2 @@
-hey ya 
-he
-ho
-good morning
-hi
-hello
+#!/bin/bash
+"hello world"
