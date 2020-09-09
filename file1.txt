@@ -17,11 +17,3 @@ ekh
 dho
 
 teen
-=======
-hey ya 
-he
-ho
-na
-ne
-hello
->>>>>>> 462e0a317e2988258a54e59e87c17a00cab11d9e
